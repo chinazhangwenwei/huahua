@@ -6,5 +6,6 @@ int main(){
 	while(i<100000000000){
 		i++;
 	}
+//xinjia
 	return 0;
 }
